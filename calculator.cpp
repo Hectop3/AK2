@@ -14,3 +14,10 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
+/* HALO 2/10
+HALO 2/10
+HALO 2/10
+HALO 2/10
+HALO 2/10
+HALO 2/10
+HALO 2/10*/
